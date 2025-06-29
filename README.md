@@ -8,7 +8,7 @@
 
 <b>Pre-Requisites:</b>
 <ul>
-  <li> python3 installed</li>
-  <li> pip installed</li>
-  <li> boto3 installed</li>
+  <li>python3 installed</li>
+  <li>pip installed</li>
+  <li>boto3 installed</li>
 </ul>
